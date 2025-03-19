@@ -12,3 +12,7 @@ body {
   border: orange 10px solid;
   background-color: white;
 }
+
+img {
+  width: 25px;
+}
